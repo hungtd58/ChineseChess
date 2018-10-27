@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{196ED32F-0BAF-F1DA-3AC7-55B097E5B528}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameBoardController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameBoardController.cs" Line="138" Column="22" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="21" Column="34" />
+      <File FileName="Assets/Scripts/Chess.cs" Line="574" Column="15" />
+      <File FileName="Assets/Scripts/ChessController.cs" Line="137" Column="22" />
+      <File FileName="Assets/Scripts/XY.cs" Line="7" Column="34" />
+      <File FileName="Assets/Scripts/DotController.cs" Line="35" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
